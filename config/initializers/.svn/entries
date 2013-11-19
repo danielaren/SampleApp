@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com/danielaren/SampleApp.git/config/initializers
+https://github.com/danielaren/SampleApp.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+e0ae9d8a-f1d3-071d-efa0-ce57b7db7bff
+
+inflections.rb
+file
+
+
+
+add
+
+session_store.rb
+file
+
+
+
+add
+
+secret_token.rb
+file
+
+
+
+add
+
+backtrace_silencers.rb
+file
+
+
+
+add
+
+mime_types.rb
+file
+
+
+
+add
+
+wrap_parameters.rb
+file
+
+
+
+add
+

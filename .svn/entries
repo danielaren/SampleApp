@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://github.com/danielaren/SampleApp.git
+https://github.com/danielaren/SampleApp.git
+
+
+
+2013-11-19T10:38:04.000000Z
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e0ae9d8a-f1d3-071d-efa0-ce57b7db7bff
+
+app
+dir
+
+
+
+add
+
+log
+dir
+
+
+
+add
+
+Rakefile
+file
+
+
+
+add
+
+db
+dir
+
+
+
+add
+
+.bundle
+dir
+
+
+
+add
+
+spec
+dir
+
+
+
+add
+
+config.ru
+file
+
+
+
+add
+
+.rspec
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+vendor
+dir
+
+
+
+add
+
+Gemfile.lock
+file
+
+
+
+add
+
+tmp
+dir
+
+
+
+add
+
+.git
+dir
+
+
+
+add
+
+script
+dir
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+doc
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+Gemfile
+file
+
+
+
+add
+
+public
+dir
+
+
+
+add
+

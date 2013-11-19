@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://github.com/danielaren/SampleApp.git/config
+https://github.com/danielaren/SampleApp.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+e0ae9d8a-f1d3-071d-efa0-ce57b7db7bff
+
+locales
+dir
+
+
+
+add
+
+routes.rb
+file
+
+
+
+add
+
+database.yml
+file
+
+
+
+add
+
+application.rb
+file
+
+
+
+add
+
+boot.rb
+file
+
+
+
+add
+
+environment.rb
+file
+
+
+
+add
+
+initializers
+dir
+
+
+
+add
+
+environments
+dir
+
+
+
+add
+
