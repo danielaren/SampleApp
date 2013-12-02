@@ -53,11 +53,12 @@ describe "Static pages" do
 				text: '| Contact' }
 	end
 
-	# it "shoulc about about " do
-	# 	visit root_path
-	# 	click_link "About"
-	# 	page.should have_selector 'title', text: full_title('About Us')
-	# end
+	describe "signup page" do
+		before { visit signup_path }
+
+		it { should have_selector('h1',		text: 'Sign up') }
+		it { should have_selector('title',	text: 'Sign up') }
+	end
 
 	it "should have the right links on the layout" do
 		visit root_path
