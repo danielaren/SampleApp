@@ -30,7 +30,8 @@ group :test do
 	gem 'factory_girl_rails', '1.4.0'
 end
 
-group :production do
+group :production, :staging do
 	gem 'pg', '0.12.2'
+	gem 'rails_12factor'
 end
 
